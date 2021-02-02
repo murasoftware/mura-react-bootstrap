@@ -1,8 +1,8 @@
 import React from 'react';
-import ItemDate from '@mura/react-bootstrap/Utilities/ItemDate';
-import ItemCredits from '@mura/react-bootstrap/Utilities/ItemCredits';
-import ItemTags from '@mura/react-bootstrap/Utilities/ItemTags';
-import OutputMarkup from '@mura/react-bootstrap/Utilities/OutputMarkup';
+import ItemDate from 'mura-react-ui-bootstrap/Utilities/ItemDate';
+import ItemCredits from 'mura-react-ui-bootstrap/Utilities/ItemCredits';
+import ItemTags from 'mura-react-ui-bootstrap/Utilities/ItemTags';
+import OutputMarkup from 'mura-react-ui-bootstrap/Utilities/OutputMarkup';
 
 function ArticleMeta(props){
     // console.log('fields ArticleMeta: ' + props.fields);

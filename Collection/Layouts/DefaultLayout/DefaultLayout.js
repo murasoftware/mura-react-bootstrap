@@ -1,7 +1,7 @@
 import {useState,useEffect} from "react";
-import CollectionNav from '@mura/react-bootstrap/CollectionNav/CollectionNav';
-import OutputMarkup from "@mura/react-bootstrap/Utilities/OutputMarkup";
-import ItemImage from '@mura/react-bootstrap/Utilities/ItemImage';
+import CollectionNav from 'mura-react-ui-bootstrap/CollectionNav/CollectionNav';
+import OutputMarkup from "mura-react-ui-bootstrap/Utilities/OutputMarkup";
+import ItemImage from 'mura-react-ui-bootstrap/Utilities/ItemImage';
 
 const DefaultLayout = ({props,collection,link}) => {
   const {nextn} = props;

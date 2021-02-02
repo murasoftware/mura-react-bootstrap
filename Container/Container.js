@@ -2,8 +2,8 @@ import React from 'react';
 import Mura from 'mura.js/src/core/core';
 
 // eslint-disable-next-line
-import { getComponent } from '@mura/react-core/Connector';
-import MuraDecorator from '@mura/react-core/Decorator';
+import { getComponent } from 'mura-react-core/Connector';
+import MuraDecorator from 'mura-react-core/Decorator';
 
 function Container(props) {
   const { items,content } = props;

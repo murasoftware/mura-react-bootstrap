@@ -4,7 +4,7 @@ import Mura from 'mura.js';
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import NavDropdown from 'react-bootstrap/NavDropdown'
-import {getHref} from '@mura/react-core/Connector';
+import {getHref} from 'mura-react-core/Connector';
 
 function PrimaryNav(props) {
   const objectparams = Object.assign({}, props);

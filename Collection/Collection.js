@@ -2,7 +2,7 @@ import React,{useState,useEffect} from 'react';
 import Mura from 'mura.js';
 import Link from "next/link";
 import ComponentRegistry from 'mura.config';
-import {getHref} from '@mura/react-core/Connector';
+import {getHref} from 'mura-react-core/Connector';
 
 export const getLayout=(layout) => {
 

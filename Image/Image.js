@@ -1,5 +1,5 @@
 import React from 'react';
-import OutputMarkup from "@mura/react-bootstrap/Utilities/OutputMarkup";
+import OutputMarkup from "mura-react-ui-bootstrap/Utilities/OutputMarkup";
 
 function Image(props) {
   let objectparams = Object.assign({},props);

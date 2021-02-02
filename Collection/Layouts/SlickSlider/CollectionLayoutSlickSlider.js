@@ -1,11 +1,11 @@
 import { useState } from "react";
 import React from 'react';
 import Card from 'react-bootstrap/Card';
-import OutputMarkup from "@mura/react-bootstrap/Utilities/OutputMarkup";
-import ItemDate from '@mura/react-bootstrap/Utilities/ItemDate';
-import CollectionReadMoreBtn from '@mura/react-bootstrap/Utilities/CollectionReadMoreBtn';
-import ItemCredits from '@mura/react-bootstrap/Utilities/ItemCredits';
-import ItemTags from '@mura/react-bootstrap/Utilities/ItemTags';
+import OutputMarkup from "mura-react-ui-bootstrap/Utilities/OutputMarkup";
+import ItemDate from 'mura-react-ui-bootstrap/Utilities/ItemDate';
+import CollectionReadMoreBtn from 'mura-react-ui-bootstrap/Utilities/CollectionReadMoreBtn';
+import ItemCredits from 'mura-react-ui-bootstrap/Utilities/ItemCredits';
+import ItemTags from 'mura-react-ui-bootstrap/Utilities/ItemTags';
 
 import Slider from "react-slick";
 

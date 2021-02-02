@@ -1,7 +1,7 @@
 import React,{useState,useEffect} from 'react';
 import Mura from 'mura.js';
 import Form from 'react-bootstrap/Form';
-import {getLayout,RouterlessLink,RouterLink} from '@mura/react-bootstrap/Collection';
+import {getLayout,RouterlessLink,RouterLink} from 'mura-react-ui-bootstrap/Collection';
 /*
   TODO: scrollpages -- not sure if this is even working at all in collection in NextJS, should test
 */

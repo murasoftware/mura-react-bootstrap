@@ -1,14 +1,14 @@
 import { useState } from "react";
 import React from 'react';
-import OutputMarkup from "@mura/react-bootstrap/Utilities/OutputMarkup";
-import CollectionNav from '@mura/react-bootstrap/CollectionNav/CollectionNav';
-import ItemDate from '@mura/react-bootstrap/Utilities/ItemDate';
+import OutputMarkup from "mura-react-ui-bootstrap/Utilities/OutputMarkup";
+import CollectionNav from 'mura-react-ui-bootstrap/CollectionNav/CollectionNav';
+import ItemDate from 'mura-react-ui-bootstrap/Utilities/ItemDate';
 import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
-import CollectionReadMoreBtn from "@mura/react-bootstrap/Utilities/CollectionReadMoreBtn";
-import ItemCredits from '@mura/react-bootstrap/Utilities/ItemCredits';
-import ItemTags from '@mura/react-bootstrap/Utilities/ItemTags';
-import ItemImage from '@mura/react-bootstrap/Utilities/ItemImage';
+import CollectionReadMoreBtn from "mura-react-ui-bootstrap/Utilities/CollectionReadMoreBtn";
+import ItemCredits from 'mura-react-ui-bootstrap/Utilities/ItemCredits';
+import ItemTags from 'mura-react-ui-bootstrap/Utilities/ItemTags';
+import ItemImage from 'mura-react-ui-bootstrap/Utilities/ItemImage';
 /*
   The link component throws an error when rerending after being 
   reconfigured in edit mode. Hence CollectionLink

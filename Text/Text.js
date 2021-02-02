@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from 'react';
 import Mura from 'mura.js';
-import OutputMarkup from "@mura/react-bootstrap/Utilities/OutputMarkup";
+import OutputMarkup from "mura-react-ui-bootstrap/Utilities/OutputMarkup";
 
 function Text(props) {
   const objectparams = Object.assign({}, props);
